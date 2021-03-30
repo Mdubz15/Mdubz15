@@ -1,4 +1,4 @@
-### Hi there 👋
+### WELCOME TO MY FIRST TRY USING GIT 👋
 
 <!--
 **Mdubz15/Mdubz15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
